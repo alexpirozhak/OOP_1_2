@@ -1,0 +1,12 @@
+# ninja log v5
+4	683	1709094509190739639	CMakeFiles/OOP_lab_1_2.dir/Google_tests/test.cpp.o	c031e11c64d87da3
+12	1684	1709099826188741376	CMakeFiles/OOP_lab_1_2.dir/Triangle.cpp.o	abcac44aebdce91c
+10	1683	1709099826188639851	CMakeFiles/OOP_lab_1_2.dir/main.cpp.o	e872172abbb50285
+1396	1492	1709099225061660613	OOP_lab_1_2	e5359e4aff3aa40a
+1	1694	1709100060978939322	Google_tests/CMakeFiles/Google_Tests_run.dir/__/Triangle.cpp.o	aa85a448ff54fd1e
+1694	3092	1709100062381180818	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o	873e32d485caefd9
+2	5316	1709100064591551433	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o	8d937de8da41c81b
+4	228	1709100084597132000	lib/libgtest.a	c6f01884f2718f79
+228	293	1709100084660757000	lib/libgtest_main.a	2cc3c6d061b36794
+4	1600	1709100085957577688	Google_tests/CMakeFiles/Google_Tests_run.dir/test.cpp.o	e64b5c8d30e100b3
+1600	1714	1709100086074094060	Google_tests/Google_Tests_run	a5394537ce3ff31e
